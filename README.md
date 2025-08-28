@@ -1,5 +1,5 @@
-# HRC-Net
-This is the official code repository for our Siggraph Asia 2025 paper: Learning Visual Hypothesis, Representative, and Collaboration for Multi-Domain Image Inpainting (Siggraph Asia 2025 Journal Track)
+# SiggraphAsia2025
+This is the official code repository for our Siggraph Asia 2025 paper: HRC-Net: Learning Visual Hypothesis, Representative, and Collaboration for Multi-Domain Image Inpainting (Siggraph Asia 2025 Journal Track)
 
 
 ## Requirements
